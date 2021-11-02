@@ -1,0 +1,8 @@
+- src: https://hephaistos.lpp.polytechnique.fr/rhodecode/GIT_REPOSITORIES/LPP/Ansible/roles/lpp_machine.git
+  scm: git
+- src: https://hephaistos.lpp.polytechnique.fr/rhodecode/GIT_REPOSITORIES/LPP/Ansible/roles/fedora.git
+  scm: git
+- src: https://hephaistos.lpp.polytechnique.fr/rhodecode/GIT_REPOSITORIES/LPP/Ansible/roles/kiosk_machine.git
+  scm: git
+- src: https://hephaistos.lpp.polytechnique.fr/rhodecode/GIT_REPOSITORIES/LPP/Ansible/roles/fail2ban.git
+  scm: git
