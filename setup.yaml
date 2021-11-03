@@ -33,7 +33,7 @@
   vars:
     enable_jails: [sshd]
     disable_selinux: true
-    slides_path: slides
+    slides_path: Slides
   roles:
     - fedora
     - specific_setup
