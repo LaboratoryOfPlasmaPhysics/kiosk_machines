@@ -3,9 +3,9 @@ all:
   children:
     production:
       hosts:
-#        complot.lab-lpp.local:
-#          ansible_host: 192.168.122.58
-#          slide: comX.pdf
+        complot.lab-lpp.local:
+          ansible_host: 134.157.77.184
+          slide: comX.pdf
 #        compost.lab-lpp.local:
 #          ansible_host: 129.104.27.86
         comx.lab-lpp.local:
